@@ -8,7 +8,7 @@ swift_palettes <- list(
   `speakNow` = c("#4b2671", "#5e291c", "#f3d8c4", "#f3bf73", "#ffffff"),
   `speakNowTV` = c("#351E2E", "#481E52", "#AE6D4F", "#884885", "#C44D56", "#A0659F"),
   `speakNowLive` = c("#fce178", "#969696", "#871d20", "#090708", "#fafaf9"),
-  `Red` = c("#B11E4A", "#A14053", "#8E7F6C", "#1B1C38", "EBEDDF", "9D8B6D"),
+  `Red` = c("#B11E4A", "#A14053", "#8E7F6C", "#1B1C38", "#EBEDDF", "#9D8B6D"),
   `taylorRed` = c("#BFBCAA", "#A6836F", "#73564C", "#731803", "#400303"),
   `taylor1989` = c("#b1532a", "#84697f", "#cbb593", "#a88f92", "#e8eadf", "#43475b"),
   `TS1989` = c("#D9523F", "#D1CFC2", "#ACBCCC", "#588383", "#AA6F4E", "#8898A1"),

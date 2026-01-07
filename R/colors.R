@@ -14,7 +14,7 @@ swift_palettes <- list(
   `TS1989` = c("#D9523F", "#D1CFC2", "#ACBCCC", "#588383", "#AA6F4E", "#8898A1"),
   `SunriseBoulevard1989` = c("#2B3849", "#6C1414", "#C8AA86", "#D0C9B9", "#888D50", "#313C40"),
   `AquamarineGreen1989` = c("#101C18", "#C19298", "#5B96A5", "#90A5A8", "#9A241F", "#938C7C"),
-  `RoseGardenPink1989` = c("#8A9DAC", "#9E948A", "#DD8253", "#B4AEAF", "#B6723C", "7F8491"),
+  `RoseGardenPink1989` = c("#8A9DAC", "#9E948A", "#DD8253", "#B4AEAF", "#B6723C", "#7F8491"),
   `reputation` = c("#060606", "#6e6e6e", "#fefefe", "#cacaca", "#060606", "#8c8c8c"),
   `lover` = c("#b8396b", "#ffd1d7", "#fff5cc", "#76bae0", "#b28f81", "#54483e"),
   `folklore` = c("#272727", "#5c5c5c", "#bababa", "#f8f8f8"),
